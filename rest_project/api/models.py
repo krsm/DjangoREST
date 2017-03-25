@@ -16,5 +16,6 @@ class ToDoList(models.Model):
     def __str__(self):
 
         """ Human readable representation of model instance """
+
         return "{}".format(self.name)
 
