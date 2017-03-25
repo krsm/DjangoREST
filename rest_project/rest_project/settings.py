@@ -36,7 +36,7 @@ INSTALLED_APPS = [
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
-    'django.contrib.staticfile
+    'django.contrib.staticfiles',
     # custom apps
     'rest_framework',
     'api',
